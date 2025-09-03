@@ -1,5 +1,4 @@
 
-````markdown
 # 🧩 Maze Explorer: DFS vs BFS
 
 This project is a **game-like simulation** of two classic graph traversal algorithms:  
