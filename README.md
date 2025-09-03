@@ -29,7 +29,7 @@ It allows you to visually compare how DFS and BFS explore a maze to find a path 
 
    * **D** → Run **DFS** (Depth First Search)
    * **B** → Run **BFS** (Breadth First Search)
-```
+
 ---
 
 ## 📖 Algorithms
