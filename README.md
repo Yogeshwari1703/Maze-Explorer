@@ -14,7 +14,7 @@ It allows you to visually compare how DFS and BFS explore a maze to find a path 
 1. Run the Python script in **VS Code** (or any terminal).  
    ```bash
    python maze_explorer.py
-````
+
 
 2. A grid (maze) will appear.
 3. Use **mouse clicks**:
@@ -29,7 +29,7 @@ It allows you to visually compare how DFS and BFS explore a maze to find a path 
 
    * **D** → Run **DFS** (Depth First Search)
    * **B** → Run **BFS** (Breadth First Search)
-
+```
 ---
 
 ## 📖 Algorithms
@@ -70,13 +70,3 @@ It allows you to visually compare how DFS and BFS explore a maze to find a path 
   ```
 
 ---
-
-## 📸 Demo
-
-* **DFS** → Goes deep into one branch before backtracking.
-* **BFS** → Spreads layer by layer and guarantees the shortest path.
-
-This makes it easy to compare the two strategies side by side!
-
-```
-
